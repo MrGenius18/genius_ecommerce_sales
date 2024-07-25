@@ -1,7 +1,7 @@
 # genius_ecommerce_sales
 
 ### Power-Bi Dashboard 
-![dashboard](https://github.com/MrGenius18/coppee_coffee_shop/blob/bc5b0486c0fea32b06f5f9c63cd5965477688af8/img/main.png)
+![dashboard](https://github.com/MrGenius18/genius_ecommerce_sales/blob/ba5685f35a993fe9a1f6ca4f0e2f232770fbad14/dashboard.png)
 
 ## Problem Statement
 
@@ -10,7 +10,7 @@ Maharashtra leads in sales amount by customer name. Clothing dominates the sales
 Printers and Bookcases are the top profit-generating sub-categories, with Haryana leading in individual customer sales amounts.
 
 
-### Steps followed 
+## Steps followed 
 
 Creating a dashboard like the Genius Ecommerce Sales involves several steps, from data collection to visualization. Here’s a step-by-step guide:
 
@@ -59,7 +59,7 @@ Creating a dashboard like the Genius Ecommerce Sales involves several steps, fro
 By following these steps, you can create a comprehensive and visually appealing ecommerce sales dashboard similar to the Genius Ecommerce Sales dashboard.
 
 
-### Uses for this Dashboard
+## Uses for this Dashboard
 
 Using the Genius Ecommerce Sales dashboard effectively involves understanding the different sections and how to interact with them to gain insights. Here’s a guide on how to use this dashboard:
 
